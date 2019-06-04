@@ -1,2 +1,9 @@
 # cryo
-Tool to automatically restore my macOS workstation after being nuked.
+
+Tool to automatically dump and restore my macOS workstation.
+
+### API
+
+```
+$ cryo [api]
+```

@@ -4,8 +4,6 @@ Tool to automatically dump and restore a macOS environment.
 
 ### $HOME/.cryo/
 
-#### config.
-
 #### sleep
 
 This is triggered before going into cryo sleep.

@@ -2,6 +2,8 @@
 
 Tool to automatically dump and restore a macOS environment.
 
+<img src="/static/avatar.png" width="500">
+
 ### $HOME/.cryo/
 
 #### sleep
